@@ -1,5 +1,5 @@
 # Health Predictor
-##Federated Learning for Privacy Preservation for Healthcare Data Analysis
+## Federated Learning for Privacy Preservation for Healthcare Data Analysis
 
 Health Predictor is an online platform utilizing federated learning techniques to predict inflammation of the urinary bladder and nephritis of renal pelvis origin. Our platform ensures privacy and data security by training the prediction model directly on user data without the need to share sensitive medical information. Leveraging the distributed nature of federated learning, we provide predictions while preserving the confidentiality of user data.This project extensively employs federated learning methodologies.
 
