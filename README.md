@@ -67,7 +67,9 @@ Federated learning is a decentralized approach to training machine learning mode
         py -2 -m virtualenv <name of environment>
         ```
 
-3. **Activate the Environment**:
+3. **Install required libraries**
+
+4. **Activate the Environment**:
     - **MacOS**: 
         ```
         . <name of environment>/bin/activate
@@ -77,7 +79,7 @@ Federated learning is a decentralized approach to training machine learning mode
         <name of environment>\Scripts\activate
         ```
 
-4. **Run the App**:
+5. **Run the App**:
     ```
     streamlit run <appname>.py
     ```
